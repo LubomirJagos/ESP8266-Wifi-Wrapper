@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="ESP8266 WiFi Wrapper.lvlib" Type="Library" URL="../ESP8266 WiFi Wrapper.lvlib"/>
+		<Item Name="ESP8266 WiFi Wrapper.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/ESP8266 WiFi Wrapper.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Arduino Compatible Compiler for LabVIEW.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/Arduino Compatible Compiler for LabVIEW.lvlib"/>
