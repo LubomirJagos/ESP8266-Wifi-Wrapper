@@ -5,162 +5,162 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Client Functions" Type="Folder">
-		<Item Name="Client Available.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Available.vi"/>
-		<Item Name="Client Check If Valid.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Check If Valid.vi"/>
-		<Item Name="Client Connect To IP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Connect To IP.vi"/>
-		<Item Name="Client Connect To URL.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Connect To URL.vi"/>
-		<Item Name="Client Flush.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Flush.vi"/>
-		<Item Name="Client Is Connected.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Is Connected.vi"/>
-		<Item Name="Client Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Print.vi"/>
-		<Item Name="Client Println.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Println.vi"/>
-		<Item Name="Client Read Bytes.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Read Bytes.vi"/>
-		<Item Name="Client Read String Until.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Read String Until.vi"/>
-		<Item Name="Client Read.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Read.vi"/>
-		<Item Name="Client Stop.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Stop.vi"/>
-		<Item Name="Client Write.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Client Functions/Client Write.vi"/>
+		<Item Name="Client Available.vi" Type="VI" URL="../Client Functions/Client Available.vi"/>
+		<Item Name="Client Check If Valid.vi" Type="VI" URL="../Client Functions/Client Check If Valid.vi"/>
+		<Item Name="Client Connect To IP.vi" Type="VI" URL="../Client Functions/Client Connect To IP.vi"/>
+		<Item Name="Client Connect To URL.vi" Type="VI" URL="../Client Functions/Client Connect To URL.vi"/>
+		<Item Name="Client Flush.vi" Type="VI" URL="../Client Functions/Client Flush.vi"/>
+		<Item Name="Client Is Connected.vi" Type="VI" URL="../Client Functions/Client Is Connected.vi"/>
+		<Item Name="Client Print.vi" Type="VI" URL="../Client Functions/Client Print.vi"/>
+		<Item Name="Client Println.vi" Type="VI" URL="../Client Functions/Client Println.vi"/>
+		<Item Name="Client Read Bytes.vi" Type="VI" URL="../Client Functions/Client Read Bytes.vi"/>
+		<Item Name="Client Read String Until.vi" Type="VI" URL="../Client Functions/Client Read String Until.vi"/>
+		<Item Name="Client Read.vi" Type="VI" URL="../Client Functions/Client Read.vi"/>
+		<Item Name="Client Stop.vi" Type="VI" URL="../Client Functions/Client Stop.vi"/>
+		<Item Name="Client Write.vi" Type="VI" URL="../Client Functions/Client Write.vi"/>
 	</Item>
 	<Item Name="CTL" Type="Folder">
-		<Item Name="DHT Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/ctl/DHT Type.ctl"/>
-		<Item Name="WiFi Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/ctl/WiFi Mode.ctl"/>
-		<Item Name="WiFi Server Status.ctl" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/ctl/WiFi Server Status.ctl"/>
+		<Item Name="DHT Type.ctl" Type="VI" URL="../ctl/DHT Type.ctl"/>
+		<Item Name="WiFi Mode.ctl" Type="VI" URL="../ctl/WiFi Mode.ctl"/>
+		<Item Name="WiFi Server Status.ctl" Type="VI" URL="../ctl/WiFi Server Status.ctl"/>
 	</Item>
 	<Item Name="DHTxx" Type="Folder">
-		<Item Name="DHTxx Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/DHT sensor/DHTxx Begin.vi"/>
-		<Item Name="DHTxx Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/DHT sensor/DHTxx Create.vi"/>
-		<Item Name="DHTxx Read Humidity.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/DHT sensor/DHTxx Read Humidity.vi"/>
-		<Item Name="DHTxx Read Temperature.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/DHT sensor/DHTxx Read Temperature.vi"/>
+		<Item Name="DHTxx Begin.vi" Type="VI" URL="../DHT sensor/DHTxx Begin.vi"/>
+		<Item Name="DHTxx Create.vi" Type="VI" URL="../DHT sensor/DHTxx Create.vi"/>
+		<Item Name="DHTxx Read Humidity.vi" Type="VI" URL="../DHT sensor/DHTxx Read Humidity.vi"/>
+		<Item Name="DHTxx Read Temperature.vi" Type="VI" URL="../DHT sensor/DHTxx Read Temperature.vi"/>
 	</Item>
 	<Item Name="Serial" Type="Folder">
 		<Item Name="Underhood functions" Type="Folder">
-			<Item Name="Serial Wifi Print IP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Serial Wifi Print IP.vi"/>
-			<Item Name="Serial Wifi Print SoftAPIP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Serial Wifi Print SoftAPIP.vi"/>
+			<Item Name="Serial Wifi Print IP.vi" Type="VI" URL="../Serial Wifi Print IP.vi"/>
+			<Item Name="Serial Wifi Print SoftAPIP.vi" Type="VI" URL="../Serial Wifi Print SoftAPIP.vi"/>
 		</Item>
-		<Item Name="Serial Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Serial Begin.vi"/>
-		<Item Name="Serial Print Target IP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Serial Print Target IP.vi"/>
-		<Item Name="Serial Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Serial Print.vi"/>
+		<Item Name="Serial Begin.vi" Type="VI" URL="../Serial Begin.vi"/>
+		<Item Name="Serial Print Target IP.vi" Type="VI" URL="../Serial Print Target IP.vi"/>
+		<Item Name="Serial Print.vi" Type="VI" URL="../Serial Print.vi"/>
 	</Item>
 	<Item Name="String" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="String Index Of.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/String/String Index Of.vi"/>
-		<Item Name="String Index Of From.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/String/String Index Of From.vi"/>
+		<Item Name="String Index Of.vi" Type="VI" URL="../String/String Index Of.vi"/>
+		<Item Name="String Index Of From.vi" Type="VI" URL="../String/String Index Of From.vi"/>
 	</Item>
 	<Item Name="Target" Type="Folder">
-		<Item Name="Arduino Target.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Arduino Target.vi"/>
-		<Item Name="ESP Target.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/ESP Target.vi"/>
+		<Item Name="Arduino Target.vi" Type="VI" URL="../Arduino Target.vi"/>
+		<Item Name="ESP Target.vi" Type="VI" URL="../ESP Target.vi"/>
 	</Item>
 	<Item Name="Tests" Type="Folder">
 		<Item Name="Advanced Tests" Type="Folder">
-			<Item Name="Connect to Simple Web Server.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Connect to Simple Web Server.vi"/>
-			<Item Name="DHT11 Reading Data.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/DHT11 Reading Data.vi"/>
-			<Item Name="DHT11 Send Software Generated Data To BaseStation.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/DHT11 Send Software Generated Data To BaseStation.vi"/>
-			<Item Name="Dimmer BaseStation With UI.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Dimmer BaseStation With UI.vi"/>
-			<Item Name="Dimmer BaseStation.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Dimmer BaseStation.vi"/>
-			<Item Name="Dimmer Get Value From BaseStation.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Dimmer Get Value From BaseStation.vi"/>
-			<Item Name="Sensors BaseStation Single Value Store.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Sensors BaseStation Single Value Store.vi"/>
-			<Item Name="Simple UDP Client.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Simple UDP Client.vi"/>
-			<Item Name="Simple UDP Server.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Simple UDP Server.vi"/>
-			<Item Name="Simple Web Server.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Simple Web Server.vi"/>
-			<Item Name="Wifi AP Setting IP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Advanced Tests/Wifi AP Setting IP.vi"/>
+			<Item Name="Connect to Simple Web Server.vi" Type="VI" URL="../tests/Advanced Tests/Connect to Simple Web Server.vi"/>
+			<Item Name="DHT11 Reading Data.vi" Type="VI" URL="../tests/Advanced Tests/DHT11 Reading Data.vi"/>
+			<Item Name="DHT11 Send Software Generated Data To BaseStation.vi" Type="VI" URL="../tests/Advanced Tests/DHT11 Send Software Generated Data To BaseStation.vi"/>
+			<Item Name="Dimmer BaseStation With UI.vi" Type="VI" URL="../tests/Advanced Tests/Dimmer BaseStation With UI.vi"/>
+			<Item Name="Dimmer BaseStation.vi" Type="VI" URL="../tests/Advanced Tests/Dimmer BaseStation.vi"/>
+			<Item Name="Dimmer Get Value From BaseStation.vi" Type="VI" URL="../tests/Advanced Tests/Dimmer Get Value From BaseStation.vi"/>
+			<Item Name="Sensors BaseStation Single Value Store.vi" Type="VI" URL="../tests/Advanced Tests/Sensors BaseStation Single Value Store.vi"/>
+			<Item Name="Simple UDP Client.vi" Type="VI" URL="../tests/Advanced Tests/Simple UDP Client.vi"/>
+			<Item Name="Simple UDP Server.vi" Type="VI" URL="../tests/Advanced Tests/Simple UDP Server.vi"/>
+			<Item Name="Simple Web Server.vi" Type="VI" URL="../tests/Advanced Tests/Simple Web Server.vi"/>
+			<Item Name="Wifi AP Setting IP.vi" Type="VI" URL="../tests/Advanced Tests/Wifi AP Setting IP.vi"/>
 		</Item>
 		<Item Name="DHTxx Test" Type="Folder">
-			<Item Name="DHTxx Test Basic.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/DHTxx Test/DHTxx Test Basic.vi"/>
-			<Item Name="DHTxx Test Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/DHTxx Test/DHTxx Test Begin.vi"/>
-			<Item Name="DHTxx Test Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/DHTxx Test/DHTxx Test Create.vi"/>
-			<Item Name="DHTxx Test Read Temperature.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/DHTxx Test/DHTxx Test Read Temperature.vi"/>
+			<Item Name="DHTxx Test Basic.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Basic.vi"/>
+			<Item Name="DHTxx Test Begin.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Begin.vi"/>
+			<Item Name="DHTxx Test Create.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Create.vi"/>
+			<Item Name="DHTxx Test Read Temperature.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Read Temperature.vi"/>
 		</Item>
 		<Item Name="String" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="String Index Of Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/String/String Index Of Test.vi"/>
-			<Item Name="String Index Of Test Serial Output.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/String/String Index Of Test Serial Output.vi"/>
-			<Item Name="String Index Of From Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/String/String Index Of From Test.vi"/>
+			<Item Name="String Index Of Test.vi" Type="VI" URL="../tests/String/String Index Of Test.vi"/>
+			<Item Name="String Index Of Test Serial Output.vi" Type="VI" URL="../tests/String/String Index Of Test Serial Output.vi"/>
+			<Item Name="String Index Of From Test.vi" Type="VI" URL="../tests/String/String Index Of From Test.vi"/>
 		</Item>
 		<Item Name="Target" Type="Folder">
-			<Item Name="Arduino Target Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Target/Arduino Target Test.vi"/>
-			<Item Name="ESP Target Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/Target/ESP Target Test.vi"/>
+			<Item Name="Arduino Target Test.vi" Type="VI" URL="../tests/Target/Arduino Target Test.vi"/>
+			<Item Name="ESP Target Test.vi" Type="VI" URL="../tests/Target/ESP Target Test.vi"/>
 		</Item>
 		<Item Name="WiFi" Type="Folder">
-			<Item Name="Available Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Available Test.vi"/>
-			<Item Name="Basic Test 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Basic Test 1.vi"/>
-			<Item Name="Basic Test 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Basic Test 2.vi"/>
-			<Item Name="Basic Test 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Basic Test 3.vi"/>
-			<Item Name="Create WiFi Server Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Create WiFi Server Test.vi"/>
-			<Item Name="CreateSetModeSoftAp Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/CreateSetModeSoftAp Test.vi"/>
-			<Item Name="Disconnect Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Disconnect Test.vi"/>
-			<Item Name="Scan Networks Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Scan Networks Test.vi"/>
-			<Item Name="Server Begin Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Server Begin Test.vi"/>
-			<Item Name="Server Print Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Server Print Test.vi"/>
-			<Item Name="SetMode Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/SetMode Test.vi"/>
-			<Item Name="SoftAP Config Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/SoftAP Config Test.vi"/>
-			<Item Name="SoftAP Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/SoftAP Test.vi"/>
-			<Item Name="Status Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/Status Test.vi"/>
-			<Item Name="WiFi Config Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi/WiFi Config Test.vi"/>
+			<Item Name="Available Test.vi" Type="VI" URL="../tests/WiFi/Available Test.vi"/>
+			<Item Name="Basic Test 1.vi" Type="VI" URL="../tests/WiFi/Basic Test 1.vi"/>
+			<Item Name="Basic Test 2.vi" Type="VI" URL="../tests/WiFi/Basic Test 2.vi"/>
+			<Item Name="Basic Test 3.vi" Type="VI" URL="../tests/WiFi/Basic Test 3.vi"/>
+			<Item Name="Create WiFi Server Test.vi" Type="VI" URL="../tests/WiFi/Create WiFi Server Test.vi"/>
+			<Item Name="CreateSetModeSoftAp Test.vi" Type="VI" URL="../tests/WiFi/CreateSetModeSoftAp Test.vi"/>
+			<Item Name="Disconnect Test.vi" Type="VI" URL="../tests/WiFi/Disconnect Test.vi"/>
+			<Item Name="Scan Networks Test.vi" Type="VI" URL="../tests/WiFi/Scan Networks Test.vi"/>
+			<Item Name="Server Begin Test.vi" Type="VI" URL="../tests/WiFi/Server Begin Test.vi"/>
+			<Item Name="Server Print Test.vi" Type="VI" URL="../tests/WiFi/Server Print Test.vi"/>
+			<Item Name="SetMode Test.vi" Type="VI" URL="../tests/WiFi/SetMode Test.vi"/>
+			<Item Name="SoftAP Config Test.vi" Type="VI" URL="../tests/WiFi/SoftAP Config Test.vi"/>
+			<Item Name="SoftAP Test.vi" Type="VI" URL="../tests/WiFi/SoftAP Test.vi"/>
+			<Item Name="Status Test.vi" Type="VI" URL="../tests/WiFi/Status Test.vi"/>
+			<Item Name="WiFi Config Test.vi" Type="VI" URL="../tests/WiFi/WiFi Config Test.vi"/>
 		</Item>
 		<Item Name="WiFi UDP" Type="Folder">
-			<Item Name="Create UDP Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/Create UDP Test.vi"/>
-			<Item Name="UDP Available Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Available Test.vi"/>
-			<Item Name="UDP Begin Packet IP Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Begin Packet IP Test.vi"/>
-			<Item Name="UDP Begin Packet URL Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Begin Packet URL Test.vi"/>
-			<Item Name="UDP Begin Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Begin Test.vi"/>
-			<Item Name="UDP End Packet Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP End Packet Test.vi"/>
-			<Item Name="UDP Parse Packet Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Parse Packet Test.vi"/>
-			<Item Name="UDP Read Peek Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Read Peek Test.vi"/>
-			<Item Name="UDP Remote IP to String Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Remote IP to String Test.vi"/>
-			<Item Name="UDP Remote Port Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Remote Port Test.vi"/>
-			<Item Name="UDP Write Byte Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Write Byte Test.vi"/>
-			<Item Name="UDP Write String Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFi UDP/UDP Write String Test.vi"/>
+			<Item Name="Create UDP Test.vi" Type="VI" URL="../tests/WiFi UDP/Create UDP Test.vi"/>
+			<Item Name="UDP Available Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Available Test.vi"/>
+			<Item Name="UDP Begin Packet IP Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Begin Packet IP Test.vi"/>
+			<Item Name="UDP Begin Packet URL Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Begin Packet URL Test.vi"/>
+			<Item Name="UDP Begin Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Begin Test.vi"/>
+			<Item Name="UDP End Packet Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP End Packet Test.vi"/>
+			<Item Name="UDP Parse Packet Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Parse Packet Test.vi"/>
+			<Item Name="UDP Read Peek Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Read Peek Test.vi"/>
+			<Item Name="UDP Remote IP to String Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Remote IP to String Test.vi"/>
+			<Item Name="UDP Remote Port Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Remote Port Test.vi"/>
+			<Item Name="UDP Write Byte Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Write Byte Test.vi"/>
+			<Item Name="UDP Write String Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Write String Test.vi"/>
 		</Item>
 		<Item Name="WiFiClient" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="Basic Print Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Basic Print Test.vi"/>
-			<Item Name="Client Available Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Available Test.vi"/>
-			<Item Name="Client Check If Null Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Check If Null Test.vi"/>
-			<Item Name="Client Connect To IP Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Connect To IP Test.vi"/>
-			<Item Name="Client Connect To URL Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Connect To URL Test.vi"/>
-			<Item Name="Client Flush Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Flush Test.vi"/>
-			<Item Name="Client Is Connected Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Is Connected Test.vi"/>
-			<Item Name="Client Print Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Print Test.vi"/>
-			<Item Name="Client Println Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Println Test.vi"/>
-			<Item Name="Client Read String Until Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Read String Until Test.vi"/>
-			<Item Name="Client Read Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Read Test.vi"/>
-			<Item Name="Client Read Bytes Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Read Bytes Test.vi"/>
-			<Item Name="Client Write Test.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/tests/WiFiClient/Client Write Test.vi"/>
+			<Item Name="Basic Print Test.vi" Type="VI" URL="../tests/WiFiClient/Basic Print Test.vi"/>
+			<Item Name="Client Available Test.vi" Type="VI" URL="../tests/WiFiClient/Client Available Test.vi"/>
+			<Item Name="Client Check If Null Test.vi" Type="VI" URL="../tests/WiFiClient/Client Check If Null Test.vi"/>
+			<Item Name="Client Connect To IP Test.vi" Type="VI" URL="../tests/WiFiClient/Client Connect To IP Test.vi"/>
+			<Item Name="Client Connect To URL Test.vi" Type="VI" URL="../tests/WiFiClient/Client Connect To URL Test.vi"/>
+			<Item Name="Client Flush Test.vi" Type="VI" URL="../tests/WiFiClient/Client Flush Test.vi"/>
+			<Item Name="Client Is Connected Test.vi" Type="VI" URL="../tests/WiFiClient/Client Is Connected Test.vi"/>
+			<Item Name="Client Print Test.vi" Type="VI" URL="../tests/WiFiClient/Client Print Test.vi"/>
+			<Item Name="Client Println Test.vi" Type="VI" URL="../tests/WiFiClient/Client Println Test.vi"/>
+			<Item Name="Client Read String Until Test.vi" Type="VI" URL="../tests/WiFiClient/Client Read String Until Test.vi"/>
+			<Item Name="Client Read Test.vi" Type="VI" URL="../tests/WiFiClient/Client Read Test.vi"/>
+			<Item Name="Client Read Bytes Test.vi" Type="VI" URL="../tests/WiFiClient/Client Read Bytes Test.vi"/>
+			<Item Name="Client Write Test.vi" Type="VI" URL="../tests/WiFiClient/Client Write Test.vi"/>
 		</Item>
 	</Item>
 	<Item Name="UDP Functions" Type="Folder">
-		<Item Name="Create UDP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/Create UDP.vi"/>
-		<Item Name="UDP Available.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Available.vi"/>
-		<Item Name="UDP Begin Packet IP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Begin Packet IP.vi"/>
-		<Item Name="UDP Begin Packet URL.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Begin Packet URL.vi"/>
-		<Item Name="UDP Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Begin.vi"/>
-		<Item Name="UDP End Packet.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP End Packet.vi"/>
-		<Item Name="UDP Flush.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Flush.vi"/>
-		<Item Name="UDP Parse Packet.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Parse Packet.vi"/>
-		<Item Name="UDP Peek.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Peek.vi"/>
-		<Item Name="UDP Read.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Read.vi"/>
-		<Item Name="UDP Remote IP to String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Remote IP to String.vi"/>
-		<Item Name="UDP Remote Port.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Remote Port.vi"/>
-		<Item Name="UDP Stop.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Stop.vi"/>
-		<Item Name="UDP Write Byte.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Write Byte.vi"/>
-		<Item Name="UDP Write String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/UDP Functions/UDP Write String.vi"/>
+		<Item Name="Create UDP.vi" Type="VI" URL="../UDP Functions/Create UDP.vi"/>
+		<Item Name="UDP Available.vi" Type="VI" URL="../UDP Functions/UDP Available.vi"/>
+		<Item Name="UDP Begin Packet IP.vi" Type="VI" URL="../UDP Functions/UDP Begin Packet IP.vi"/>
+		<Item Name="UDP Begin Packet URL.vi" Type="VI" URL="../UDP Functions/UDP Begin Packet URL.vi"/>
+		<Item Name="UDP Begin.vi" Type="VI" URL="../UDP Functions/UDP Begin.vi"/>
+		<Item Name="UDP End Packet.vi" Type="VI" URL="../UDP Functions/UDP End Packet.vi"/>
+		<Item Name="UDP Flush.vi" Type="VI" URL="../UDP Functions/UDP Flush.vi"/>
+		<Item Name="UDP Parse Packet.vi" Type="VI" URL="../UDP Functions/UDP Parse Packet.vi"/>
+		<Item Name="UDP Peek.vi" Type="VI" URL="../UDP Functions/UDP Peek.vi"/>
+		<Item Name="UDP Read.vi" Type="VI" URL="../UDP Functions/UDP Read.vi"/>
+		<Item Name="UDP Remote IP to String.vi" Type="VI" URL="../UDP Functions/UDP Remote IP to String.vi"/>
+		<Item Name="UDP Remote Port.vi" Type="VI" URL="../UDP Functions/UDP Remote Port.vi"/>
+		<Item Name="UDP Stop.vi" Type="VI" URL="../UDP Functions/UDP Stop.vi"/>
+		<Item Name="UDP Write Byte.vi" Type="VI" URL="../UDP Functions/UDP Write Byte.vi"/>
+		<Item Name="UDP Write String.vi" Type="VI" URL="../UDP Functions/UDP Write String.vi"/>
 	</Item>
 	<Item Name="WiFi Functions" Type="Folder">
 		<Item Name="Underhood functions" Type="Folder">
-			<Item Name="SoftAP Config.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/SoftAP Config.vi"/>
-			<Item Name="SoftAP.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/SoftAP.vi"/>
-			<Item Name="WiFi Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/WiFi Begin.vi"/>
-			<Item Name="WiFi Config.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/WiFi Config.vi"/>
+			<Item Name="SoftAP Config.vi" Type="VI" URL="../SoftAP Config.vi"/>
+			<Item Name="SoftAP.vi" Type="VI" URL="../SoftAP.vi"/>
+			<Item Name="WiFi Begin.vi" Type="VI" URL="../WiFi Begin.vi"/>
+			<Item Name="WiFi Config.vi" Type="VI" URL="../WiFi Config.vi"/>
 		</Item>
-		<Item Name="Available.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Available.vi"/>
-		<Item Name="Create WiFi Client.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Create WiFi Client.vi"/>
-		<Item Name="Create WiFi Server.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Create WiFi Server.vi"/>
-		<Item Name="Disconnect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Disconnect.vi"/>
-		<Item Name="Scan Networks.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Scan Networks.vi"/>
-		<Item Name="Server Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Server Begin.vi"/>
-		<Item Name="Server Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Server Print.vi"/>
-		<Item Name="Set Mode.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Set Mode.vi"/>
-		<Item Name="Status.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Status.vi"/>
-		<Item Name="WiFi Setup.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/WiFi Setup.vi"/>
-		<Item Name="WiFi Start.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/WiFi Start.vi"/>
+		<Item Name="Available.vi" Type="VI" URL="../Available.vi"/>
+		<Item Name="Create WiFi Client.vi" Type="VI" URL="../Create WiFi Client.vi"/>
+		<Item Name="Create WiFi Server.vi" Type="VI" URL="../Create WiFi Server.vi"/>
+		<Item Name="Disconnect.vi" Type="VI" URL="../Disconnect.vi"/>
+		<Item Name="Scan Networks.vi" Type="VI" URL="../Scan Networks.vi"/>
+		<Item Name="Server Begin.vi" Type="VI" URL="../Server Begin.vi"/>
+		<Item Name="Server Print.vi" Type="VI" URL="../Server Print.vi"/>
+		<Item Name="Set Mode.vi" Type="VI" URL="../Set Mode.vi"/>
+		<Item Name="Status.vi" Type="VI" URL="../Status.vi"/>
+		<Item Name="WiFi Setup.vi" Type="VI" URL="../WiFi Setup.vi"/>
+		<Item Name="WiFi Start.vi" Type="VI" URL="../WiFi Start.vi"/>
 	</Item>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/ESP8266 WiFi Wrapper/Translator.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
