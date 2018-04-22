@@ -71,7 +71,6 @@
 		<Item Name="String" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="String Index Of Test.vi" Type="VI" URL="../tests/String/String Index Of Test.vi"/>
-			<Item Name="String Index Of Test Serial Output.vi" Type="VI" URL="../tests/String/String Index Of Test Serial Output.vi"/>
 			<Item Name="String Index Of From Test.vi" Type="VI" URL="../tests/String/String Index Of From Test.vi"/>
 		</Item>
 		<Item Name="Target" Type="Folder">
@@ -124,6 +123,7 @@
 			<Item Name="Client Read Test.vi" Type="VI" URL="../tests/WiFiClient/Client Read Test.vi"/>
 			<Item Name="Client Read Bytes Test.vi" Type="VI" URL="../tests/WiFiClient/Client Read Bytes Test.vi"/>
 			<Item Name="Client Write Test.vi" Type="VI" URL="../tests/WiFiClient/Client Write Test.vi"/>
+			<Item Name="Client Create Test.vi" Type="VI" URL="../tests/WiFiClient/Client Create Test.vi"/>
 		</Item>
 	</Item>
 	<Item Name="UDP Functions" Type="Folder">
