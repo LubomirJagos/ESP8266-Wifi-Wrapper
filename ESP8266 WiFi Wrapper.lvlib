@@ -18,6 +18,7 @@
 		<Item Name="Client Read.vi" Type="VI" URL="../Client Functions/Client Read.vi"/>
 		<Item Name="Client Stop.vi" Type="VI" URL="../Client Functions/Client Stop.vi"/>
 		<Item Name="Client Write.vi" Type="VI" URL="../Client Functions/Client Write.vi"/>
+		<Item Name="Translator Client Functions.vi" Type="VI" URL="../Client Functions/Translator Client Functions.vi"/>
 	</Item>
 	<Item Name="CTL" Type="Folder">
 		<Item Name="DHT Type.ctl" Type="VI" URL="../ctl/DHT Type.ctl"/>
@@ -29,6 +30,7 @@
 		<Item Name="DHTxx Create.vi" Type="VI" URL="../DHT sensor/DHTxx Create.vi"/>
 		<Item Name="DHTxx Read Humidity.vi" Type="VI" URL="../DHT sensor/DHTxx Read Humidity.vi"/>
 		<Item Name="DHTxx Read Temperature.vi" Type="VI" URL="../DHT sensor/DHTxx Read Temperature.vi"/>
+		<Item Name="Translator DHTxx.vi" Type="VI" URL="../DHT sensor/Translator DHTxx.vi"/>
 	</Item>
 	<Item Name="Serial" Type="Folder">
 		<Item Name="Underhood functions" Type="Folder">
@@ -43,6 +45,7 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="String Index Of.vi" Type="VI" URL="../String/String Index Of.vi"/>
 		<Item Name="String Index Of From.vi" Type="VI" URL="../String/String Index Of From.vi"/>
+		<Item Name="Translator String Functions.vi" Type="VI" URL="../String/Translator String Functions.vi"/>
 	</Item>
 	<Item Name="Target" Type="Folder">
 		<Item Name="Arduino Target.vi" Type="VI" URL="../Arduino Target.vi"/>
@@ -95,6 +98,7 @@
 			<Item Name="WiFi Config Test.vi" Type="VI" URL="../tests/WiFi/WiFi Config Test.vi"/>
 		</Item>
 		<Item Name="WiFi UDP" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Create UDP Test.vi" Type="VI" URL="../tests/WiFi UDP/Create UDP Test.vi"/>
 			<Item Name="UDP Available Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Available Test.vi"/>
 			<Item Name="UDP Begin Packet IP Test.vi" Type="VI" URL="../tests/WiFi UDP/UDP Begin Packet IP Test.vi"/>
@@ -127,6 +131,7 @@
 		</Item>
 	</Item>
 	<Item Name="UDP Functions" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Create UDP.vi" Type="VI" URL="../UDP Functions/Create UDP.vi"/>
 		<Item Name="UDP Available.vi" Type="VI" URL="../UDP Functions/UDP Available.vi"/>
 		<Item Name="UDP Begin Packet IP.vi" Type="VI" URL="../UDP Functions/UDP Begin Packet IP.vi"/>
@@ -142,6 +147,7 @@
 		<Item Name="UDP Stop.vi" Type="VI" URL="../UDP Functions/UDP Stop.vi"/>
 		<Item Name="UDP Write Byte.vi" Type="VI" URL="../UDP Functions/UDP Write Byte.vi"/>
 		<Item Name="UDP Write String.vi" Type="VI" URL="../UDP Functions/UDP Write String.vi"/>
+		<Item Name="Translator UDP Functions.vi" Type="VI" URL="../UDP Functions/Translator UDP Functions.vi"/>
 	</Item>
 	<Item Name="WiFi Functions" Type="Folder">
 		<Item Name="Underhood functions" Type="Folder">
