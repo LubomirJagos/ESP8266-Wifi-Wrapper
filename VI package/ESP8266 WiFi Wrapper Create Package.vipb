@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-06 01:38:33" Modified_Date="2018-06-16 15:54:01" Creator="Lubomir Jagos" Comments="" ID="e9bdde9fa71ee8345d542df25c9cc2e6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-06 01:38:33" Modified_Date="2018-06-18 10:43:35" Creator="Lubomir Jagos" Comments="" ID="0b3bc8818e2bb9c23c5d36aa28212447">
   <Library_General_Settings>
     <Package_File_Name>LubomirJagos_lib_ESP8266_WiFi_Wrapper</Package_File_Name>
-    <Library_Version>2.3.0.6</Library_Version>
+    <Library_Version>2.3.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -462,7 +462,7 @@
         <Path>..\UDP Functions</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>54025F3E58A93679F9D72CCF86BA5B2C</GUID>
+      <GUID>5FF91360AE8F0CBFCAB073A49F221573</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -665,7 +665,7 @@
         <Path>..\Client Functions\Client Is Connected.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C85B31F4FB96FC3FA77523DE6A7E88E4</GUID>
+      <GUID>29555788D006FD70F582F9304CD2EDEE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -742,7 +742,7 @@
         <Path>..\DHT sensor\DHTxx Read Temperature.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A9B36F253BA488562FD0AA4FC94503EC</GUID>
+      <GUID>E27895A562A3B5877D542D9CB191363E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -791,7 +791,7 @@
         <Path>..\String\String Index Of.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>18F3211F21BE89DD991DDB7D826F97C1</GUID>
+      <GUID>AE8D040B9EFF8A270218AB2D6436B4D7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1022,7 +1022,7 @@
         <Path>..\UDP Functions\UDP Remote Port.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD2105FA5ECE8D15AE9BBD8C9CAD3BBC</GUID>
+      <GUID>E5B9FF13C29E4161DEBDA25C17C83F63</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1197,7 +1197,7 @@
         <Path>..\tests\Advanced Tests\Dimmer BaseStation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E47BD15E6E8815AC2B7D700D2CA91A2A</GUID>
+      <GUID>D00BC349383C6B4F984A788B2896D900</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
