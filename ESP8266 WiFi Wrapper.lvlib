@@ -4,6 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="ArduinoOTA" Type="Folder">
+		<Item Name="OTA Handle.vi" Type="VI" URL="../ArduinoOTA/OTA Handle.vi"/>
+		<Item Name="OTA Init.vi" Type="VI" URL="../ArduinoOTA/OTA Init.vi"/>
+		<Item Name="OTA Ticker Attach.vi" Type="VI" URL="../ArduinoOTA/OTA Ticker Attach.vi"/>
+		<Item Name="Translator OTA Functions.vi" Type="VI" URL="../ArduinoOTA/Translator OTA Functions.vi"/>
+	</Item>
 	<Item Name="Client Functions" Type="Folder">
 		<Item Name="Client Available.vi" Type="VI" URL="../Client Functions/Client Available.vi"/>
 		<Item Name="Client Check If Valid.vi" Type="VI" URL="../Client Functions/Client Check If Valid.vi"/>
@@ -70,6 +76,18 @@
 			<Item Name="DHTxx Test Begin.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Begin.vi"/>
 			<Item Name="DHTxx Test Create.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Create.vi"/>
 			<Item Name="DHTxx Test Read Temperature.vi" Type="VI" URL="../tests/DHTxx Test/DHTxx Test Read Temperature.vi"/>
+		</Item>
+		<Item Name="OTA" Type="Folder">
+			<Item Name="generated code" Type="Folder">
+				<Item Name="OTA_Test_1" Type="Folder">
+					<Item Name="OTA_Test_1.ino" Type="Document" URL="../tests/OTA/generated code/OTA_Test_1/OTA_Test_1.ino"/>
+				</Item>
+			</Item>
+			<Item Name="utils" Type="Folder">
+				<Item Name="Convert to C code.vi" Type="VI" URL="../tests/OTA/utils/Convert to C code.vi"/>
+				<Item Name="OTA Blink LED.vi" Type="VI" URL="../tests/OTA/utils/OTA Blink LED.vi"/>
+			</Item>
+			<Item Name="OTA Test 1.vi" Type="VI" URL="../tests/OTA/OTA Test 1.vi"/>
 		</Item>
 		<Item Name="String" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
