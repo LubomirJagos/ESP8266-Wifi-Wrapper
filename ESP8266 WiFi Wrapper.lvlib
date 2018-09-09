@@ -5,22 +5,22 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="ArduinoOTA" Type="Folder">
-		<Item Name="OTA Handle.vi" Type="VI" URL="../ArduinoOTA/OTA Handle.vi"/>
-		<Item Name="OTA Init.vi" Type="VI" URL="../ArduinoOTA/OTA Init.vi"/>
+		<Item Name="OTA Handle.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/ArduinoOTA/OTA Handle.vi"/>
+		<Item Name="OTA Init.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/ArduinoOTA/OTA Init.vi"/>
 		<Item Name="OTA Ticker Attach.vi" Type="VI" URL="../ArduinoOTA/OTA Ticker Attach.vi"/>
-		<Item Name="Translator OTA Functions.vi" Type="VI" URL="../ArduinoOTA/Translator OTA Functions.vi"/>
+		<Item Name="Translator OTA Functions.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/ArduinoOTA/Translator OTA Functions.vi"/>
 	</Item>
 	<Item Name="Client Functions" Type="Folder">
 		<Item Name="Client Available.vi" Type="VI" URL="../Client Functions/Client Available.vi"/>
-		<Item Name="Client Check If Valid.vi" Type="VI" URL="../Client Functions/Client Check If Valid.vi"/>
+		<Item Name="Client Check If Valid.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Client Functions/Client Check If Valid.vi"/>
 		<Item Name="Client Connect To IP.vi" Type="VI" URL="../Client Functions/Client Connect To IP.vi"/>
 		<Item Name="Client Connect To URL.vi" Type="VI" URL="../Client Functions/Client Connect To URL.vi"/>
-		<Item Name="Client Flush.vi" Type="VI" URL="../Client Functions/Client Flush.vi"/>
+		<Item Name="Client Flush.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Client Functions/Client Flush.vi"/>
 		<Item Name="Client Is Connected.vi" Type="VI" URL="../Client Functions/Client Is Connected.vi"/>
-		<Item Name="Client Print.vi" Type="VI" URL="../Client Functions/Client Print.vi"/>
+		<Item Name="Client Print.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Client Functions/Client Print.vi"/>
 		<Item Name="Client Println.vi" Type="VI" URL="../Client Functions/Client Println.vi"/>
 		<Item Name="Client Read Bytes.vi" Type="VI" URL="../Client Functions/Client Read Bytes.vi"/>
-		<Item Name="Client Read String Until.vi" Type="VI" URL="../Client Functions/Client Read String Until.vi"/>
+		<Item Name="Client Read String Until.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Client Functions/Client Read String Until.vi"/>
 		<Item Name="Client Read.vi" Type="VI" URL="../Client Functions/Client Read.vi"/>
 		<Item Name="Client Stop.vi" Type="VI" URL="../Client Functions/Client Stop.vi"/>
 		<Item Name="Client Write.vi" Type="VI" URL="../Client Functions/Client Write.vi"/>
@@ -40,22 +40,22 @@
 	</Item>
 	<Item Name="Serial" Type="Folder">
 		<Item Name="Underhood functions" Type="Folder">
-			<Item Name="Serial Wifi Print IP.vi" Type="VI" URL="../Serial Wifi Print IP.vi"/>
-			<Item Name="Serial Wifi Print SoftAPIP.vi" Type="VI" URL="../Serial Wifi Print SoftAPIP.vi"/>
+			<Item Name="Serial Wifi Print IP.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Serial Wifi Print IP.vi"/>
+			<Item Name="Serial Wifi Print SoftAPIP.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Serial Wifi Print SoftAPIP.vi"/>
 		</Item>
 		<Item Name="Serial Begin.vi" Type="VI" URL="../Serial Begin.vi"/>
-		<Item Name="Serial Print Target IP.vi" Type="VI" URL="../Serial Print Target IP.vi"/>
+		<Item Name="Serial Print Target IP.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Serial Print Target IP.vi"/>
 		<Item Name="Serial Print.vi" Type="VI" URL="../Serial Print.vi"/>
 	</Item>
 	<Item Name="String" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="String Index Of.vi" Type="VI" URL="../String/String Index Of.vi"/>
+		<Item Name="String Index Of.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/String/String Index Of.vi"/>
 		<Item Name="String Index Of From.vi" Type="VI" URL="../String/String Index Of From.vi"/>
 		<Item Name="Translator String Functions.vi" Type="VI" URL="../String/Translator String Functions.vi"/>
 	</Item>
 	<Item Name="Target" Type="Folder">
 		<Item Name="Arduino Target.vi" Type="VI" URL="../Arduino Target.vi"/>
-		<Item Name="ESP Target.vi" Type="VI" URL="../ESP Target.vi"/>
+		<Item Name="ESP Target.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/ESP Target.vi"/>
 	</Item>
 	<Item Name="Tests" Type="Folder">
 		<Item Name="Advanced Tests" Type="Folder">
@@ -85,7 +85,7 @@
 			</Item>
 			<Item Name="utils" Type="Folder">
 				<Item Name="Convert to C code.vi" Type="VI" URL="../tests/OTA/utils/Convert to C code.vi"/>
-				<Item Name="OTA Blink LED.vi" Type="VI" URL="../tests/OTA/utils/OTA Blink LED.vi"/>
+				<Item Name="OTA Blink LED.vi" Type="VI" URL="../../LabVIEW-Universal-Transcriptor-Examples/ESP8266/utils/OTA Blink LED.vi"/>
 			</Item>
 			<Item Name="OTA Test 1.vi" Type="VI" URL="../tests/OTA/OTA Test 1.vi"/>
 		</Item>
@@ -165,26 +165,26 @@
 		<Item Name="UDP Stop.vi" Type="VI" URL="../UDP Functions/UDP Stop.vi"/>
 		<Item Name="UDP Write Byte.vi" Type="VI" URL="../UDP Functions/UDP Write Byte.vi"/>
 		<Item Name="UDP Write String.vi" Type="VI" URL="../UDP Functions/UDP Write String.vi"/>
-		<Item Name="Translator UDP Functions.vi" Type="VI" URL="../UDP Functions/Translator UDP Functions.vi"/>
+		<Item Name="Translator UDP Functions.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/UDP Functions/Translator UDP Functions.vi"/>
 	</Item>
 	<Item Name="WiFi Functions" Type="Folder">
 		<Item Name="Underhood functions" Type="Folder">
-			<Item Name="SoftAP Config.vi" Type="VI" URL="../SoftAP Config.vi"/>
-			<Item Name="SoftAP.vi" Type="VI" URL="../SoftAP.vi"/>
-			<Item Name="WiFi Begin.vi" Type="VI" URL="../WiFi Begin.vi"/>
-			<Item Name="WiFi Config.vi" Type="VI" URL="../WiFi Config.vi"/>
+			<Item Name="SoftAP Config.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/SoftAP Config.vi"/>
+			<Item Name="SoftAP.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/SoftAP.vi"/>
+			<Item Name="WiFi Begin.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/WiFi Begin.vi"/>
+			<Item Name="WiFi Config.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/WiFi Config.vi"/>
 		</Item>
-		<Item Name="Available.vi" Type="VI" URL="../Available.vi"/>
-		<Item Name="Create WiFi Client.vi" Type="VI" URL="../Create WiFi Client.vi"/>
-		<Item Name="Create WiFi Server.vi" Type="VI" URL="../Create WiFi Server.vi"/>
+		<Item Name="Available.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Available.vi"/>
+		<Item Name="Create WiFi Client.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Create WiFi Client.vi"/>
+		<Item Name="Create WiFi Server.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Create WiFi Server.vi"/>
 		<Item Name="Disconnect.vi" Type="VI" URL="../Disconnect.vi"/>
 		<Item Name="Scan Networks.vi" Type="VI" URL="../Scan Networks.vi"/>
-		<Item Name="Server Begin.vi" Type="VI" URL="../Server Begin.vi"/>
+		<Item Name="Server Begin.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Server Begin.vi"/>
 		<Item Name="Server Print.vi" Type="VI" URL="../Server Print.vi"/>
-		<Item Name="Set Mode.vi" Type="VI" URL="../Set Mode.vi"/>
+		<Item Name="Set Mode.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/Set Mode.vi"/>
 		<Item Name="Status.vi" Type="VI" URL="../Status.vi"/>
-		<Item Name="WiFi Setup.vi" Type="VI" URL="../WiFi Setup.vi"/>
-		<Item Name="WiFi Start.vi" Type="VI" URL="../WiFi Start.vi"/>
+		<Item Name="WiFi Setup.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/WiFi Setup.vi"/>
+		<Item Name="WiFi Start.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/ESP8266 WiFi Wrapper/WiFi Start.vi"/>
 	</Item>
 	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
